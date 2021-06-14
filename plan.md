@@ -6,7 +6,9 @@
 * [ ] clothes brand?
 * [ ] studios - kirtans, japa recordings, video processing, even mb movies
 * [ ] music label
+* [ ] publishing brand: redesigned BG, SB, CC 
 * [ ] fund?
 * [ ] event agency - conferences, festivals, local gatherings
 * [ ] university
 * [ ] retreat centres
+* [ ] tours
