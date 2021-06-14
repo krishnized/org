@@ -5,6 +5,7 @@
 * [ ] hariballs ... microrestaurants chain?
 * [ ] clothes brand?
 * [ ] studios - kirtans, japa recordings, video processing, even mb movies
+* [ ] music label
 * [ ] fund?
 * [ ] event agency - conferences, festivals, local gatherings
 * [ ] university
