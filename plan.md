@@ -12,3 +12,5 @@
 * [ ] university
 * [ ] retreat centres
 * [ ] tours
+* [ ] farms
+* [ ] milk brand
