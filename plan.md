@@ -1,4 +1,7 @@
-* [ ] mridang.am - mridanga courses, kirtans etc - learning music
+* [ ] mridang.am
+  - mridanga courses, kirtans etc
+  - learning music
+  - good mridanga book: printable any part of website to study
 * [ ] japp - connecting via regular practice
 * [ ] bhakti hub - connecting world / local vaisnavas, TV, temples, vrikshas, classes/schools, cafes, retreats, shops, chats, job listings
 * [ ] swag shop - apparel, books, food, spices, incense
