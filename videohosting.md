@@ -32,19 +32,56 @@
   * ресурсная
 
 
-## Youtube
+### → Youtube
 >1 000 000 000
 
-## Netflix
-170 000 000
+### → VK
 
-## Ivi
-30 000 000
+### → FB.watch
 
-## Instagram
+### → Yandex videohosting
 
-## Tiktok
+### Instagram
 
-## VK
+### Tiktok
 
-## FB.watch
+
+## SWOT
+
+### Strengths
+
+Youtube:
+* super-stable;
+* huge audience out of the box;
+* reliable hosting & availability;
+
+Yandex:
+* reliable Russian-audience streaming.
+
+### Weakneses
+
+Youtube:
+* can be blocked by US govmt;
+* copyrights;
+* no way to change videos easily;
+* not sure about streaming;
+
+Yandex.video: can't be blocked by US govmt, can be blocked by Russian govmt
+
+### Opportunities
+
+### Threats
+
+
+
+## Ideas
+
+* reading vaisnav books by someone (Madhurya project)
+
+* TV Series
+  * Mahabharata, Ramayana
+    * some specific topic OR just sequencial
+    * hard to find good content
+    * regulated amount of series
+
+* mangalarati together?
