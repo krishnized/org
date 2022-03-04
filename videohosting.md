@@ -76,6 +76,8 @@ Yandex.video: can't be blocked by US govmt, can be blocked by Russian govmt
 
 ## Ideas
 
+* Regular series
+
 * reading vaisnav books by someone (Madhurya project)
 
 * TV Series
@@ -85,3 +87,45 @@ Yandex.video: can't be blocked by US govmt, can be blocked by Russian govmt
     * regulated amount of series
 
 * mangalarati together?
+
+* Best classes of known Gurus
+
+* BG series of meetings
+* SB series of meetings
+
+* BG for kids
+* CC meetings
+
+* Kirtan classes?
+
+* Theater
+* Dance
+
+* Channel for kids
+* Channel for women
+* Channel for men
+
+* University
+
+* Quests for vaisnavas with achievements
+* Regular meetings with Guru
+
+* Life or Srila Prabhupada
+
+* Humor: KVN
+
+* Kirtan streaming
+
+## Format
+
+* Podcast?
+
+* Single-person stream?
+
+* Streming group meetings like CC does with SB.
+
+* Apple meetings
+
+* Mind valley
+
+* Cozy gatherings with guitar etc.
