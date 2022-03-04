@@ -122,6 +122,8 @@ Yandex.video: can't be blocked by US govmt, can be blocked by Russian govmt
 
 * Talk-show, live audience
 
+* Japa time with amazing imagery, sound customization etc
+
 ## Format
 
 * Podcast?
