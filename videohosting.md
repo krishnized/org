@@ -76,7 +76,9 @@ Yandex.video: can't be blocked by US govmt, can be blocked by Russian govmt
 
 ## Ideas
 
-* Regular series of programs to wait for
+* ! Regular series of programs to wait for
+
+* ! Cross-pollination of small project with ideas from other areas
 
 * reading vaisnav books by someone (Madhurya project)
 
