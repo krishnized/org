@@ -118,6 +118,10 @@ Yandex.video: can't be blocked by US govmt, can be blocked by Russian govmt
 
 * Kirtan streaming
 
+* Culinary show
+
+* Talk-show, live audience
+
 ## Format
 
 * Podcast?
