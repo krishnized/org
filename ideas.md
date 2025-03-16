@@ -135,3 +135,70 @@
 * Friends
   * japa108 app (!pretty good!)
   * https://github.com/gita
+
+
+## New list
+
+* Preachers base
+  * Lectures
+  * Kirtans
+  * Short summary
+  * Disciples
+  * Japa
+  * Location
+  * Books
+
+* Vaisnavs base
+  * Stories
+  * Books
+
+* Lectures base
+  * By preacher
+  * By Scripture
+  * By chapter
+  * Find videos
+
+* Books base
+  * Bengali, Sanskrit with perfect translation
+  * Categories
+  * Ref to lectures
+  * Languages
+  * Order
+  * Near-vaisnav books
+
+* Kirtans, bhajans base
+  * Lost styles
+  * Tutorials w/player
+
+* FAQ base
+  * By preacher
+  * Generalize classes of questions, clusterize
+  * Lectures refs
+  * Scripture refs
+
+* Poetry base
+  * Meter collection, find for meter
+
+* Art base
+  * Free domain art
+
+* Events base
+  * Gatherings, communities
+
+* Prasadam base
+
+* Temples base
+  * Story
+  * Websites
+
+* Aphorisms base
+
+* X bots
+* Reels gens
+
+* Preaching arguments base
+
+* Krishna base
+  * Everything Krishna ever said
+    * With context and lesson
+  * Poetic translations to langs, with versions
